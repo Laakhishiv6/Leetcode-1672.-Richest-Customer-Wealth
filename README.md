@@ -20,7 +20,7 @@ Third customer's wealth = 3+5 => 8
 
 Maximum wealth = 10 
 
-Algorithm:
+# Algorithm
 1. Create a variable named max_wealth which returns the maximum wealth . Initialise it as 0.
 2. Loop through accounts array .
 3. Sum up each customer's wealth.
